@@ -13,7 +13,6 @@ The graphics user interface requires that you input:
 4 - an anatomical mask in which the search will be restrained.
 
 5 - whether you want to use contiguous expansion of the ROIs or discontiguous 
-(discontiguous is not recommended for now and an option to add an anatomically defined inclusion mask will be ported in future releases)
 
 6 - the Number of voxels that you wish to save in your binary mask (this also handles matlab regular expression e.g. 
 linspace(20,400,20) or vectors e.g. [20 40 60 80 100])
