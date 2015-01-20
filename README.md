@@ -1,4 +1,4 @@
-# roi-extraction
+# roi-extraction v0.1
 DESCRIPTION
 
 This toolbox allows a semi-automated roi definition procedure.
